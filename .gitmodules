@@ -4,3 +4,6 @@
 [submodule "Covid19"]
 	path = Covid19
 	url = https://github.com/uttamu2812/Covid19.git
+[submodule "chat-server"]
+	path = chat-server
+	url = https://github.com/uttamu2812/chat-server.git
