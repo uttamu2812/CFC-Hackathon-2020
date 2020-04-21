@@ -1,3 +1,6 @@
 [submodule "Fight-to-Covid-19"]
 	path = Fight-to-Covid-19
 	url = https://github.com/uttamu2812/Fight-to-Covid-19.git
+[submodule "Covid19"]
+	path = Covid19
+	url = https://github.com/uttamu2812/Covid19.git
