@@ -20,7 +20,7 @@ chat server is a nodeJS application
 For testing app
 json-server --watch Fight to covid-19/db.json
 
-#update branch and commit
+update branch and commit
 git submodule foreach git pull origin master
 git add module_1_name
 git add module_2_name
